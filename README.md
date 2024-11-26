@@ -60,7 +60,7 @@
 
 ## Dart는 또한 null safety 언어이다.
 
-- null 값을 참조해도 오류나지 하지 않게하는 장치
+- null safety는 개발자가 null 값을 참조할 수 없도록 하는 장치
 - null safety는 안전한 프로그램을 빌드할 때 매우 중요함. (Java나 C++등 많은 언어에서 이와 관련한 문제점이있음)
 
 ## 그렇다면, 왜 flutter는 dart라는 언어를 선택했을까?
