@@ -6,6 +6,7 @@ void main() {
     2,
     4,
     6,
+    // if(giveMeFive) 5,
   ]; // 쉼표로 마무리하면 여러줄로 포메팅됨
   // collection if : if로 존재할 수도 안할수도 있는 요소를 가지고 만듬, true면 값을 줌
   if (giveMeFive) {
